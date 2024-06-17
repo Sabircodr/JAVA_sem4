@@ -10,7 +10,7 @@ Welcome to the repository for Object Oriented Programming Lab (OOPs) - JAVA
 - [Day 4](#day-4)
 - [Day 6 (25/04/2024)](#day-6-25042024)
 - [Day 7 (26/04/2024)](#day-7-26042024)
-- [Lastest / Extra](#lastest-/-extra)
+- [Lastest / Extra](#lastest--extra)
 
 
 ## Day 1 (07/03/2024)
