@@ -31,15 +31,17 @@ Welcome to the repository for Object Oriented Programming Lab (OOPs) - JAVA
 
 ## Day 3 (04/04/2024)
 
-1. Write a program in Java to implement a default constructor to show the default value of variables. [eg: - 0, null, etc] (declaration of constructor is not required). [Link to code](Programs/)
+1. Write a program in Java to implement a default constructor to show the default value of variables. [eg: - 0, null, etc] (declaration of constructor is not required). [Link to code](Programs/defConst.java)
 
-2. Write a program in Java to implement a default constructor to show the given values of the variables by the user. [Link to code](Programs/)
+2. Write a program in Java to implement a default constructor to show the given values of the variables by the user. [Link to code](Programs/valConst.java)
 
-3. Write a program of constructor overloading by changing the sequence of parameters. [Link to code](Programs/)
+3. Write a program in Java to implement a parameterized constructor. [Link to code](Programs/parConst.java)
 
-4. Write a program of constructor overloading by changing the number of parameters. [Link to code](Programs/)
+4. Write a program of constructor overloading by changing the sequence of parameters. [Link to code](Programs/ConsO2.java)
 
-5. Write a program of constructor overloading by changing the data of parameters. [Link to code](Programs/)
+5. Write a program of constructor overloading by changing the number of parameters. [Link to code](Programs/ConsO1.java)
+
+6. Write a program of constructor overloading by changing the data of parameters. [Link to code](Programs/constO3.java)
 
 ## Day 6 (25/04/2024)
 
