@@ -7,8 +7,10 @@ Welcome to the repository for Object Oriented Programming Lab (OOPs) - JAVA
 - [Day 1 (07/03/2024)](#day-1-07032024)
 - [Day 2 (28/03/2024)](#day-2-28032024)
 - [Day 3 (04/04/2024)](#day-3-04042024)
+- [Day 4](#day-4)
 - [Day 6 (25/04/2024)](#day-6-25042024)
 - [Day 7 (26/04/2024)](#day-7-26042024)
+- [Lastest / Extra](#day-3-04042024)
 
 
 ## Day 1 (07/03/2024)
@@ -42,6 +44,19 @@ Welcome to the repository for Object Oriented Programming Lab (OOPs) - JAVA
 5. Write a program of constructor overloading by changing the number of parameters. [Link to code](Programs/ConsO1.java)
 
 6. Write a program of constructor overloading by changing the data of parameters. [Link to code](Programs/constO3.java)
+
+## Day 4
+
+### Funtion Overloading
+> [!NOTE]
+> Forgot the program names so here's only the programs
+> 1. Overload function ```sum``` with no return type. [Link to code](Programs/functionOverloading1.java)
+
+> 2. Overload function ```sum``` with return type. [Link to code](Programs/methodOverloading.java)
+
+> 3. Overload function by changing the number and data types of parameters. Class name ```Figure``` [Link to code](Programs/overloadFigures.java)
+
+> 4. Overload function by changing the data type and sequence of parameters. Class name ```Person``` [Link to code](Programs/overloadPerson.java)
 
 ## Day 6 (25/04/2024)
 
@@ -80,7 +95,7 @@ Create two derived classes from ```Building``` class with the following attribut
     - ROI of ```Axis``` is 9%
  [Link to code](Programs/overBank.java)
 
-4. Write a Java program to find the largest number of an array, taking input from the user using command-line argument. [Link to code](Programs/commandLine.java)
+4. Write a Java program to find the largest number of an array, taking input from the user using command-line argument. [Link to code](Programs/comandLine.java)
 
 5. Write a program in Java to make a super-class ```Figure``` that will store the various geometric figures, now define a method ```area()``` that will calculate the area of a triangle and the area of a rectangle. [Link to code](Programs/)
 
