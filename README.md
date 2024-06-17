@@ -10,7 +10,7 @@ Welcome to the repository for Object Oriented Programming Lab (OOPs) - JAVA
 - [Day 4](#day-4)
 - [Day 6 (25/04/2024)](#day-6-25042024)
 - [Day 7 (26/04/2024)](#day-7-26042024)
-- [Lastest / Extra](#day-3-04042024)
+- [Lastest / Extra](#lastest-/-extra)
 
 
 ## Day 1 (07/03/2024)
@@ -108,3 +108,11 @@ Create two derived classes from ```Building``` class with the following attribut
 9. Write a program to create an abstract class ```Vegetable``` with two abstract methods ```color()``` and ```whereGrow()```. Create two subclasses ```Peanut``` and ```Tomato``` that extend ```Vegetable``` class and print the color of ```Peanut``` and ```Tomato```, and their locations of growing. [Link to code](Programs/)
 
 10. Write a program in Java to create an abstract class ```Account``` having four instance variables ```account_balance```, ```account_holder_name```, ```account_number``` and ```address```. Now this abstract class ```Account``` contains one abstract method ```depositedBalance()``` and a non-abstract method ```accountDetails()```. Create a subclass ```SavingsAccount``` that extends ```Account``` and display ```depositedAmount```, ```RateofInterest```, ```newBalance``` and ```accountDetails()```. [Link to code](Programs/)
+
+## Lastest / Extra
+
+1. Write a Java program with one Try and multiple Catch block. [Link to code](Programs/tryCatch.java)
+
+2. Write a Java program with one Try and multiple Catch block with different user defined exception with finally block. [Link to code](Programs/error.java)
+
+3. Write a java program to create 2 concurrent Thread. [Link to code](Programs/thread.java)
