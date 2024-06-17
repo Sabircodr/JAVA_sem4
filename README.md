@@ -97,17 +97,17 @@ Create two derived classes from ```Building``` class with the following attribut
 
 4. Write a Java program to find the largest number of an array, taking input from the user using command-line argument. [Link to code](Programs/comandLine.java)
 
-5. Write a program in Java to make a super-class ```Figure``` that will store the various geometric figures, now define a method ```area()``` that will calculate the area of a triangle and the area of a rectangle. [Link to code](Programs/)
+5. Write a program in Java to make a super-class ```Figure``` that will store the various geometric figures, now define a method ```area()``` that will calculate the area of a triangle and the area of a rectangle. [Link to code](Programs/prog5.java)
 
-6. Write a program in Java to implement abstraction having an abstract class ```Shape``` with an abstract method ```draw()```. Create 2 derived classes ```Rectangle``` and ```Circle``` that extend ```Shape``` class and print ```Drawing Rectangle``` and ```Drawing Circle``` by overriding the method ```draw()```. [Link to code](Programs/)
+6. Write a program in Java to implement abstraction having an abstract class ```Shape``` with an abstract method ```draw()```. Create 2 derived classes ```Rectangle``` and ```Circle``` that extend ```Shape``` class and print ```Drawing Rectangle``` and ```Drawing Circle``` by overriding the method ```draw()```. [Link to code](Programs/prog6.java)
 
-7. Create an abstract class ```Bike``` with an abstract method ```run()``` and a concrete method ```gearChange()```. Now create a class ```TVS``` that extends ```Bike``` with a method ```run()``` and print "Bike is Running Safely" and "Gear Change". [Link to code](Programs/)
+7. Create an abstract class ```Bike``` with an abstract method ```run()``` and a concrete method ```gearChange()```. Now create a class ```TVS``` that extends ```Bike``` with a method ```run()``` and print "Bike is Running Safely" and "Gear Change". [Link to code](Programs/prog7.java)
 
-8. Create an abstract class ```Tiger``` with two abstract methods ```eat()``` and ```sleep()```. Now create a class ```Cat``` that extends ```Tiger``` and define methods ```eat()``` and ```sleep()``` in that class and print "Cat is Eating" and "Cat is Sleeping". [Link to code](Programs/)
+8. Create an abstract class ```Tiger``` with two abstract methods ```eat()``` and ```sleep()```. Now create a class ```Cat``` that extends ```Tiger``` and define methods ```eat()``` and ```sleep()``` in that class and print "Cat is Eating" and "Cat is Sleeping". [Link to code](Programs/prog8.java)
 
-9. Write a program to create an abstract class ```Vegetable``` with two abstract methods ```color()``` and ```whereGrow()```. Create two subclasses ```Peanut``` and ```Tomato``` that extend ```Vegetable``` class and print the color of ```Peanut``` and ```Tomato```, and their locations of growing. [Link to code](Programs/)
+9. Write a program to create an abstract class ```Vegetable``` with two abstract methods ```color()``` and ```whereGrow()```. Create two subclasses ```Peanut``` and ```Tomato``` that extend ```Vegetable``` class and print the color of ```Peanut``` and ```Tomato```, and their locations of growing. [Link to code](Programs/prog9.java)
 
-10. Write a program in Java to create an abstract class ```Account``` having four instance variables ```account_balance```, ```account_holder_name```, ```account_number``` and ```address```. Now this abstract class ```Account``` contains one abstract method ```depositedBalance()``` and a non-abstract method ```accountDetails()```. Create a subclass ```SavingsAccount``` that extends ```Account``` and display ```depositedAmount```, ```RateofInterest```, ```newBalance``` and ```accountDetails()```. [Link to code](Programs/)
+10. Write a program in Java to create an abstract class ```Account``` having four instance variables ```account_balance```, ```account_holder_name```, ```account_number``` and ```address```. Now this abstract class ```Account``` contains one abstract method ```depositedBalance()``` and a non-abstract method ```accountDetails()```. Create a subclass ```SavingsAccount``` that extends ```Account``` and display ```depositedAmount```, ```RateofInterest```, ```newBalance``` and ```accountDetails()```. [Link to code](Programs/prog10.java)
 
 ## Lastest / Extra
 
