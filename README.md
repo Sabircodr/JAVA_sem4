@@ -25,7 +25,7 @@ Welcome to the repository for Object Oriented Programming Lab (OOPs) - JAVA
 
 ## Day 2 (28/03/2024)
 
-1. Write a Java program to show the class name and the source file name may be different. [Link to code](Programs/diffNames.java)
+1. Write a Java program to show the class name and the source file name may be different. [Link to code](Programs/diffNames.md)
 
 2. Write two Java programs with the same instance variable ```EmpID```, ```EmpName``` and ```CreditScore```, where in the first program ```main``` will be present in the same class and in the second program the ```main``` will be in a different class. Initialize the objects in both cases using instance variables.  
    [Link to code 1](Programs/sameEmp.java)  
