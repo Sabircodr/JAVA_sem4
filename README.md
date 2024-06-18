@@ -116,3 +116,6 @@ Create two derived classes from ```Building``` class with the following attribut
 2. Write a Java program with one Try and multiple Catch block with different user defined exception with finally block. [Link to code](Programs/error.java)
 
 3. Write a java program to create 2 concurrent Thread. [Link to code](Programs/thread.java)
+
+
+4. Write a Java program to design an interface Calculate to preform addition, substraction, multiplication and division. [Link to code](Programs/interface.md)
