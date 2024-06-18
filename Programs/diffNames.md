@@ -1,7 +1,3 @@
-Below is a Markdown file (`ClassAndFileName.md`) explaining the Java program demonstrating that the class name and the source file name can be different.
-
----
-
 Java allows the class name to differ from the name of the source file. This flexibility in naming conventions is useful for organizing and structuring Java projects. Here's a simple demonstration:
 
 #### Source Code
